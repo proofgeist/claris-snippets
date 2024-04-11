@@ -1,11 +1,11 @@
 # Claris Snippets for Raycast
 
-This repository contains a collection of Claris (FileMaker) Snippets that can be used by [this Raycast extension](https://www.raycast.com/eluce2/claris-snippets). To learn more about how the extension works, check out our [blog post](https://www.proofgeist.com/blog/2022/10/12/claris-snippets).
+This repository contains a collection of FileMaker Snippets that can be used by [this Raycast extension](https://www.raycast.com/eluce2/filemaker-snippets). To learn more about how the extension works, check out our [blog post](https://www.proofgeist.com/blog/2022/10/12/claris-snippets).
 
 ## Pre-requisites
 - Raycast (macOS only) ([direct download](https://www.raycast.com/download))
-- Claris Snippets extension ([link to store](https://www.raycast.com/eluce2/claris-snippets))
-- FileMaker Pro or Claris Pro
+- Claris Snippets extension ([link to store](https://www.raycast.com/eluce2/filemaker-snippets))
+- FileMaker Pro
 
 ## Installing these snippets
 1. **Clone this repository to your computer**
