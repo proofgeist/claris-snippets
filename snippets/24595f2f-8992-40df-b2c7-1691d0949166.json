@@ -1,10 +1,1 @@
-{
-  "id": "24595f2f-8992-40df-b2c7-1691d0949166",
-  "name": "isServer",
-  "type": "customFunction",
-  "snippet": "<fmxmlsnippet type=\"FMObjectList\"><CustomFunction id=\"55\" functionArity=\"0\" visible=\"True\" parameters=\"\" name=\"isServer\"><Calculation><![CDATA[not PatternCount ( Get ( ApplicationVersion ) ; \"Server\" )]]></Calculation></CustomFunction></fmxmlsnippet>",
-  "tags": [""],
-  "description": "Custom function to return true if running on server",
-  "customXML": true,
-  "dynamicFields": []
-}
+{"id":"24595f2f-8992-40df-b2c7-1691d0949166","name":"isServer","type":"customFunction","snippet":"<fmxmlsnippet type=\"FMObjectList\"><CustomFunction id=\"1\" functionArity=\"0\" visible=\"True\" parameters=\"\" name=\"isServer\"><Calculation><![CDATA[PatternCount ( Get ( ApplicationVersion ) ; \"Server\" )]]></Calculation></CustomFunction></fmxmlsnippet>","tags":[""],"description":"Custom function to return true if running on server","customXML":false,"dynamicFields":[]}
